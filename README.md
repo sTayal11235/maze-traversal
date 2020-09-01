@@ -1,1 +1,1 @@
-# maze-traversal
+# maze_traversal
